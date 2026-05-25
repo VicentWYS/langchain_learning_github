@@ -1,4 +1,4 @@
-# LangChain + LangGraph 学习
+# LangChain + LangGraph 自制工具
 
 ## 项目简介
 
