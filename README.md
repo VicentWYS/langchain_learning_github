@@ -37,14 +37,14 @@ uv sync
 ```
 
 ### 4. 配置 API Keys
+复制环境变量模板
 
 ```bash
-# 复制环境变量模板
 cp .env.example .env
 ```
 
+编辑 .env，填入你的 API Key
 ```
-# 编辑 .env，填入你的 API Key
 # QWEN_API_KEY: https://bailian.console.aliyun.com/cn-beijing/?tab=model#/api-key
 # DEEPSEEK_API_KEY: https://platform.deepseek.com/api_keys
 ```
