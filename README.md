@@ -29,17 +29,17 @@ git clone <repo-url>
 cd langchain_learning_uv
 ```
 
-激活项目：
-```bash
-.venv\Scripts\activate
-```
-
 ### 3. 安装依赖
 
 `uv sync` 会自动读取 `.python-version` 创建/使用对应版本的 Python 虚拟环境，并根据 `pyproject.toml` 和 `uv.lock` 安装所有依赖：
 
 ```bash
 uv sync
+```
+
+激活项目：
+```bash
+.venv\Scripts\activate
 ```
 
 ### 4. 配置 API Keys
