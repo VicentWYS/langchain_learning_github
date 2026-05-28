@@ -23,9 +23,15 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 ### 2. 克隆项目
 
+克隆到本地：
 ```bash
 git clone <repo-url>
 cd langchain_learning_uv
+```
+
+激活项目：
+```bash
+.venv\Scripts\activate
 ```
 
 ### 3. 安装依赖
