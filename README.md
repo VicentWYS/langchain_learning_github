@@ -1,8 +1,8 @@
-# LangChain + LangGraph 自制工具
+# LangChain 快速开始
 
 ## 项目简介
 
-本项目在基于 LangChain 和 LangGraph 两个框架的学习基础上，编写一些实用的小工具。
+本项目为LangChain项目的快速开始示例。
 
 ## 快速开始
 
